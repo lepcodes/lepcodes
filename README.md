@@ -6,8 +6,6 @@ I'm a **Software Developer** 💻 and **Machine Learning** specialist 🤖, pass
 <br />
 <br />
 
-<div>
-
 # ✉️ Contact Me
 <br />
 <div align="center">
@@ -46,9 +44,15 @@ I'm a **Software Developer** 💻 and **Machine Learning** specialist 🤖, pass
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lepcodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-    
 ![](https://nirzak-streak-stats.vercel.app/?user=lepcodes&theme=dark&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lepcodes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
-</div>
+<br />
+
+# ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
