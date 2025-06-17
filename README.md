@@ -1,5 +1,5 @@
+![banner.png](./banner.png)
 ## Hi there 👋
-
 <!--
 **lepcodes/lepcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
