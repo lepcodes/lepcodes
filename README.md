@@ -10,16 +10,16 @@ I'm a **Software Developer** 💻 and **Machine Learning** specialist 🤖, pass
 <br />
 <div align="center">
   <a href="https://luis-preciado-portfolio.vercel.app" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=111139&format=png&color=000000"  />
+    <img width="100" height="100" src="https://img.icons8.com/plasticine/100/internet.png" alt="internet"/>
   </a>
   <a href="https://linkedin.com/in/luispreciado" target="_blank">
-    <img src="https://img.icons8.com/clouds/100/000000/linkedin.png"  />
+    <img width="100" height="100" src="https://img.icons8.com/plasticine/100/linkedin.png" alt="linkedin"/>
   </a>
   <a href="mailto:luispre99@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=GNO9f2CARaea&format=png&color=000000"  />
+    <img width="100" height="100" src="https://img.icons8.com/plasticine/100/mailbox-opened-flag-up.png" alt="mailbox-opened-flag-up"/>
   </a>
   <a href="https://github.com/lepcodes" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=118557&format=png&color=000000"  />
+    <img width="100" height="100" src="https://img.icons8.com/plasticine/100/github-squared.png" alt="github-squared"/>
   </a>
 </div>
 <br />
