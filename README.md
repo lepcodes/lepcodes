@@ -6,7 +6,7 @@
 # ✉️ Contact Me
 <br />
 <div align="center">
-  <a href="https://luis-preciado-portfolio.vercel.app" target="_blank">
+  <a href="https://portfolio.lepcodes.com" target="_blank">
     <img width="100" height="100" src="https://img.icons8.com/plasticine/100/internet.png" alt="internet"/>
   </a>
   <a href="https://linkedin.com/in/luispreciado" target="_blank">
