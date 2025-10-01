@@ -1,5 +1,5 @@
 ![banner.png](./banner.png)
-### I'm a **Software Developer** 💻 and **Machine Learning** specialist 🤖, passionate about building impactful applications. My current focus is on developing responsive **frontend applications** (using tools like React and Astro) designed for integration with AI features. I love to create tools that are not just innovative, but genuinely useful (checkout my <a href="https://luis-preciado-portfolio.vercel.app">**portfolio**</a>) 🌟.
+### I'm a **Software Developer** 💻 and **Machine Learning** specialist 🤖, passionate about building impactful applications. My current focus is on developing responsive **frontend applications** (using tools like React and Astro) designed for integration with AI features. I love to create tools that are not just innovative, but genuinely useful (checkout my <a href="https://portfolio.lepcodes.com">**portfolio**</a>) 🌟.
 
 <br />
 
